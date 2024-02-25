@@ -1,0 +1,9 @@
+{
+  "name": "reacttodos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cd web && yarn dev"
+  }
+}
